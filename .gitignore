@@ -51,3 +51,5 @@ dist/
 eval.sh
 
 *.DS_Store
+
+detectron2/
