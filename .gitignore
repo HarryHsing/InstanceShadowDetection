@@ -52,4 +52,5 @@ eval.sh
 
 *.DS_Store
 
-detectron2/
+
+detectron2/model_zoo/
