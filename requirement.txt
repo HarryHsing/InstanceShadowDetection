@@ -1,0 +1,7 @@
+tensorboard
+Cython
+jupyter
+scikit-image
+numpy
+opencv-python
+pycocotools

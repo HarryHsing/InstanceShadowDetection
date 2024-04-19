@@ -10,7 +10,7 @@ inference_test_output
 
 
 
-*.txt
+# *.txt
 
 # compilation and distribution
 __pycache__
